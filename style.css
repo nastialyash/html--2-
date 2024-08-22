@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(119, 185, 230);
+    font-size: 18px;
+    line-height: 1.5em;
+
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 10px auto;
+    display: flex;
+    column-gap: 21px;
+
+}
+.items{
+
+}
+.block1{
+margin-bottom: 20px;
+background-color: aliceblue;
+padding-bottom: 15px;
+}
+img{
+width: 100%;
+}
+img{
+width: 100%;
+}
+h4,p{
+    margin: 15px;
+}

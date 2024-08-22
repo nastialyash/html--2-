@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    font-size: 18px;
+    line-height: 1.5em;
+
+}
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 10px auto;
+    display: flex;
+    column-gap: 21px;
+ flex-direction: column-reverse;
+ gap: 17px;
+
+    
+}
+.red{
+    background-color: rgb(241, 153, 153);
+    padding: 35px;
+    border-radius: 19px;
+    margin-left: 100px;
+    margin-right: 100px;
+   
+}
+.blue{
+    background-color: rgb(138, 204, 248);
+    padding: 35px;
+    border-radius: 19px;
+    margin-left: 100px;
+    margin-right: 100px;
+   
+}
+img{
+    width: 100px;
+}
+blockquote{
+    color: rgb(133, 133, 133);
+   font-weight: 100;
+   font-size: smaller;
+}
+.image{
+
+   margin-top: -300px;
+}
+.image2{
+    display: flex;
+    justify-content: flex-end;
+
+
+}
